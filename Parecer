@@ -1,0 +1,19 @@
+Relato Crítico: Programação Assistida e Aplicações de IA (Unidade II)
+Impressões Gerais
+Este documento apresenta minha análise referente à Unidade II, focada em Programação Assistida e nas implementações da Inteligência Artificial.
+
+Após consumir o podcast, compreendi a disciplina com maior lucidez. Logo na introdução, discute-se que a automação por IA deve atuar como um suporte e não como uma "escora" para o desenvolvedor. Estabelece-se uma analogia entre o humano e a máquina: o programador atua como o piloto (quem efetivamente manipula o código), enquanto a IA desempenha o papel de navegador (revisando e corrigindo em tempo real). Essa dinâmica propicia respostas mais assertivas em intervalos menores, elevando o padrão de qualidade. A função primordial da tecnologia é mitigar tarefas repetitivas e auxiliar, jamais suplantar o profissional.
+
+A IA gera fragmentos de código estritamente sob demanda do usuário. Embora permaneça vigilante, ela não possui uma precisão absoluta; caso o resultado divirja da expectativa, o refatoramento torna-se essencial, permitindo que a ferramenta se alinhe aos objetivos do programador. Outra vantagem relevante é a agilidade na criação de boilerplates (estruturas padronizadas), economizando o tempo que seria desperdiçado em digitações redundantes.
+
+Ferramentas e Desafios
+O GitHub Copilot tem se mostrado um recurso excepcional para o desenvolvimento, dada sua capacidade de interpretação de contexto e a drástica redução no tempo de depuração (debug) — sendo, inclusive, minha escolha predileta. Todavia, apesar dos benefícios, ele enfrenta controvérsias sobre direitos autorais, o que pode gerar entraves jurídicos. É crucial que o desenvolvedor não delegue à IA ambas as funções (piloto e navegador simultaneamente), pois isso atrofia o raciocínio lógico.
+
+Quanto ao Replit, sua natureza baseada em computação em nuvem dispensa instalações locais. Sua IA demonstrou uma acurácia superior à do Copilot (o que me surpreendeu positivamente em testes práticos). Entretanto, essa dependência da nuvem exige conexão constante à internet e pode suscitar receios quanto à privacidade de dados em ambientes corporativos, por envolver o armazenamento em servidores de terceiros.
+
+Ética e Responsabilidade
+A capacidade da IA de testar os próprios códigos oferece novas perspectivas sobre como podemos evoluir nossa lógica de programação. Contudo, a responsabilidade final sobre vulnerabilidades ou falhas de segurança recai inteiramente sobre o humano. Nós detemos o poder de decisão; a máquina apenas fornece sugestões. O profissional que se torna dependente da tecnologia acaba se tornando limitado, perdendo a habilidade de solucionar problemas de forma autônoma.
+
+Em suma, devemos manter a consciência sobre nossa posição: somos os pilotos ou apenas navegadores da automação? É necessário ponderar a ética de nossas ações e garantir que a Inteligência Artificial não anule o intelecto humano. O que nos distingue é a capacidade de pensar, e essa faculdade deve ser exercitada e protegida diariamente.
+
+Foi usado o gemini.ia
